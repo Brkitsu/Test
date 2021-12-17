@@ -9,7 +9,7 @@
     margin-left: auto;
     margin-right: auto;	
   }
-  p, h1{
+  p{
   text-align: center;
   }
   </style>
